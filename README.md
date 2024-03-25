@@ -41,7 +41,7 @@ git clone git@github.com:apaulinhacarlos/trybe-fund-playground-functions.git
 Acesse o diretório do projeto com o comando `cd`:
 
 ```bash
-cd sd-012-project-playground-functions
+cd trybe-fund-playground-functions
 ```
  
 Abra os arquivos `challenges.js` ou `challenges2.js` no VSCode e utilize `console.log()` para testar as funções localmente.
